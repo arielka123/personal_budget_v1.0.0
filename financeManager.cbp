@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="financeManager" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/test-financeManager" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/test-financeManager" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Markup.cpp" />
+		<Unit filename="Markup.h" />
+		<Unit filename="auxiliaryMethods.cpp" />
+		<Unit filename="auxiliaryMethods.h" />
+		<Unit filename="balanceSheet.cpp" />
+		<Unit filename="balanceSheet.h" />
+		<Unit filename="dateManager.cpp" />
+		<Unit filename="dateManager.h" />
+		<Unit filename="expense.cpp" />
+		<Unit filename="expense.h" />
+		<Unit filename="expenseManager.cpp" />
+		<Unit filename="expenseManager.h" />
+		<Unit filename="income.cpp" />
+		<Unit filename="income.h" />
+		<Unit filename="incomeManager.cpp" />
+		<Unit filename="incomeManager.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="user.cpp" />
+		<Unit filename="user.h" />
+		<Unit filename="userManager.cpp" />
+		<Unit filename="userManager.h" />
+		<Unit filename="users.xml" />
+		<Unit filename="xmlWithExpenses.cpp" />
+		<Unit filename="xmlWithExpenses.h" />
+		<Unit filename="xmlWithIncomes.cpp" />
+		<Unit filename="xmlWithIncomes.h" />
+		<Unit filename="xmlWithUsers.cpp" />
+		<Unit filename="xmlWithUsers.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
