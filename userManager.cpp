@@ -36,9 +36,9 @@ User UserManager::addDataNewUser()
         cout << "Podaj login: ";
         cin>>login;
         user.setLogin(login);
-
     }
     while (loginExist(user.getLogin())==true);
+
 
     cout << "Podaj haslo: ";
     cin>> password;
@@ -51,7 +51,6 @@ User UserManager::addDataNewUser()
     cout <<"Podaj nazwisko: ";
     cin >> surname;
     user.setSurname(surname);
-
     return user;
 }
 
@@ -65,8 +64,8 @@ bool UserManager::loginExist(string login)
 
             return true;
         }
-        return false;
     }
+            return false;
 }
 
 int UserManager::setIdNewUser()
@@ -123,8 +122,8 @@ int UserManager::userLogIn()
     }
     cout << "Nie ma uzytkownika z takim loginem" << endl << endl;
 
-Sleep(500);
-return 0;
+    Sleep(500);
+    return 0;
 }
 
 void UserManager::changePassword()

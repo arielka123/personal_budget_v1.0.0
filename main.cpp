@@ -22,7 +22,6 @@ int main()
             {
             case '1':
                 balanceSheet.userRegister();
-                idLoggedUser = balanceSheet.getLoggedUserID();
                 break;
             case '2':
                 idLoggedUser= balanceSheet.userLogIn();

@@ -126,4 +126,11 @@
 <ExpenseItem>a</ExpenseItem>
 <ExpenseAmount>347.99</ExpenseAmount>
 </Expense>
+<Expense>
+<UserId>5</UserId>
+<ExpenseId>19</ExpenseId>
+<ExpenseDate>20210705</ExpenseDate>
+<ExpenseItem>aaaa</ExpenseItem>
+<ExpenseAmount>2121.1</ExpenseAmount>
+</Expense>
 </Expenses>

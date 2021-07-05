@@ -231,3 +231,156 @@
 	"userManager.h"
 	"auxiliaryMethods.h"
 
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\auxiliarymethods.cpp
+	"auxiliaryMethods.h"
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\auxiliarymethods.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<vector>
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\balancesheet.cpp
+	"balanceSheet.h"
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\balancesheet.h
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	"expenseManager.h"
+	"incomeManager.h"
+	"userManager.h"
+	"auxiliaryMethods.h"
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\expensemanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<cstdlib>
+	<algorithm>
+	<stdexcept>
+	"expense.h"
+	"auxiliaryMethods.h"
+	"userManager.h"
+	"dateManager.h"
+	"xmlWithExpenses.h"
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\expense.h
+	<iostream>
+	<algorithm>
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\usermanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<cstdlib>
+	"user.h"
+	"xmlWithUsers.h"
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\user.h
+	<iostream>
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\xmlwithusers.h
+	<iostream>
+	"Markup.h"
+	"user.h"
+	"auxiliaryMethods.h"
+	<vector>
+	<sstream>
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\datemanager.h
+	<iostream>
+	<vector>
+	<string>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	"income.h"
+	"auxiliaryMethods.h"
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\income.h
+	<iostream>
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\xmlwithexpenses.h
+	<iostream>
+	"Markup.h"
+	"expense.h"
+	"auxiliaryMethods.h"
+	<vector>
+	<sstream>
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\incomemanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<cstdlib>
+	<algorithm>
+	<stdexcept>
+	"income.h"
+	"auxiliaryMethods.h"
+	"userManager.h"
+	"dateManager.h"
+	"xmlWithIncomes.h"
+
+1625444737 c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\xmlwithincomes.h
+	<iostream>
+	"Markup.h"
+	"income.h"
+	"auxiliaryMethods.h"
+	<vector>
+	<sstream>
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\datemanager.cpp
+	"dateManager.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\expense.cpp
+	"expense.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\expensemanager.cpp
+	"expenseManager.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\income.cpp
+	"income.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\incomemanager.cpp
+	"incomeManager.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\user.cpp
+	"user.h"
+
+1625509961 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\usermanager.cpp
+	"userManager.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\xmlwithexpenses.cpp
+	"xmlWithExpenses.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\xmlwithincomes.cpp
+	"xmlWithIncomes.h"
+
+1625444737 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\xmlwithusers.cpp
+	"xmlWithUsers.h"
+
+1625509492 source:c:\users\arielka\desktop\projekt_przysz造_programista\moja_aplikacja_2\financemanager2\finance_manager\main.cpp
+	<iostream>
+	"incomeManager.h"
+	"userManager.h"
+	"expenseManager.h"
+	"dateManager.h"
+	"balanceSheet.h"
+
